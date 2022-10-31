@@ -1,0 +1,11 @@
+.firstRow{
+    display: grid;
+    grid-template-columns: 50px 200px 300px 200px;
+}
+.user{
+    display: grid;
+    grid-template-columns: 50px 200px 300px 200px;
+}
+div{
+    margin-left: 10px;
+}
