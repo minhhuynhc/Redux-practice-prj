@@ -1,0 +1,14 @@
+.createPost{
+    /* display: block; */
+}
+.addBtn{
+    color: white;
+    background: rgb(110, 207, 110);
+    border: none;
+    border-radius: 5px;
+    transition: 100ms background-color ease-in;
+}
+
+.addBtn:hover{
+    background: green;
+}
